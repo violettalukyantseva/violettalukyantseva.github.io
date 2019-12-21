@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa1c09",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62542724609375,
+          55.75648626598077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#14c8cf",
+        "marker-size": "medium",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8646240234375,
+          55.91689071641185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eb7a3d",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.75201416015625,
+          55.41342553237579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faaf08",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.58422851562499,
+          55.429013452407396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e5ca2d",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.89459228515625,
+          55.21178926670743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.90557861328125,
+            55.23372188680824
+          ],
+          [
+            37.59796142578125,
+            55.43992133608655
+          ],
+          [
+            36.76025390625,
+            55.42122026143498
+          ],
+          [
+            37.63916015625,
+            55.77039358162004
+          ],
+          [
+            36.8701171875,
+            55.92920212464032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.509674072265625,
+          55.17651507880266
+        ]
+      }
+    }
+  ]
+}
